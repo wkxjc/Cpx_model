@@ -3,13 +3,21 @@
 
 # 项目名
 
-![](https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bb/a1/c8/bba1c89a-9572-ba8e-ab3d-7da8521d69c4/AppIcon-1x_U007emarketing-85-220-0-4.png/1200x630wa.png)
+[![](https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bb/a1/c8/bba1c89a-9572-ba8e-ab3d-7da8521d69c4/AppIcon-1x_U007emarketing-85-220-0-4.png/1200x630wa.png)](https://clawinapp.com/#apps)
 
 ## 简介
 
-项目 Android端，包名：xxx
+Clawin Android端，包名：com.toyscollect.prizeclaw.clawin
+
+Clawin 官网：[https://clawinapp.com/#apps](https://clawinapp.com/#apps)
 
 Google Play链接：[https://play.google.com/store/apps/details?id=com.toyscollect.prizeclaw.clawin](https://play.google.com/store/apps/details?id=com.toyscollect.prizeclaw.clawin)
+
+Twitter主页：[https://twitter.com/ClawPrize](https://twitter.com/ClawPrize)
+
+Facebook主页：[https://www.facebook.com/Crane-Game-Carnival-Real-Claw-Machine-Games-354962941681745/](https://www.facebook.com/Crane-Game-Carnival-Real-Claw-Machine-Games-354962941681745/)
+
+Instagram主页：[https://www.instagram.com/clawin_carnival/](https://www.instagram.com/clawin_carnival/)
 
 下载链接:
 
@@ -19,20 +27,21 @@ Google Play链接：[https://play.google.com/store/apps/details?id=com.toyscolle
 
 * [app](https://github.com/MobileCPX/Clawin/tree/master/app) 功能模块
   * [grabDolls](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/grabDolls) 首页Grab Dolls标签页
-    * room 房间列表
-      * item 房间内游戏页面
+    * [room](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/grabDolls/room) 房间列表
+      * [item](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/grabDolls/room/item) 房间内游戏页面
   * [activities](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/activities) 首页Activities标签页
   * [rankings](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/rankings) 首页Rankings标签页
   * [me](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/me) 首页Me标签页
-    * myDolls 我的娃娃
-      * applyDelivery 邮寄页面
-  * common 共用内容
-    * pay 支付
+    * [myDolls](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/me/myDolls) 我的娃娃
+      * [applyDelivery](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/me/myDolls/applyDelivery) 邮寄页面
+  * [common](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/common) 共用内容
+    * [pay](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/common/pay) 支付
 * [base](https://github.com/MobileCPX/Clawin/tree/master/base) 工具、依赖库模块
-  * common 共用内容
-    * login 登录
-  * retrofit_rx 网络请求
-  * websocket WebSocket请求
+  * [clawin](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/clawin) 共用内容
+    * [login](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/clawin/login) 登录
+  * [library](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/library)
+    * [retrofit_rx](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/library/retrofit_rx) 网络请求
+    * [websocket](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/library/websocket) WebSocket请求
 
 ## 技术要点
 
@@ -65,6 +74,8 @@ Google Play链接：[https://play.google.com/store/apps/details?id=com.toyscolle
 公司名称：成都魔力百聚科技有限公司
 
 公司网站：[www.mobilecpx.com](www.mobilecpx.com)
+
+Google邮箱：grabdolls@gmail.com
 
 ## LICENSE
 
