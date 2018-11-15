@@ -17,18 +17,18 @@ Google Play链接：[https://play.google.com/store/apps/details?id=com.toyscolle
 
 ## 模块分包说明（自顶向下介绍整体分包结构，介绍重要的功能分包细节）
 
-* app 功能模块
-  * grabDolls 首页Grab Dolls标签页
+* [app](https://github.com/MobileCPX/Clawin/tree/master/app) 功能模块
+  * [grabDolls](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/grabDolls) 首页Grab Dolls标签页
     * room 房间列表
       * item 房间内游戏页面
-  * activities 首页Activities标签页
-  * rankings 首页Rankings标签页
-  * me 首页Me标签页
+  * [activities](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/activities) 首页Activities标签页
+  * [rankings](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/rankings) 首页Rankings标签页
+  * [me](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/me) 首页Me标签页
     * myDolls 我的娃娃
       * applyDelivery 邮寄页面
   * common 共用内容
     * pay 支付
-* base 工具、依赖库模块
+* [base](https://github.com/MobileCPX/Clawin/tree/master/base) 工具、依赖库模块
   * common 共用内容
     * login 登录
   * retrofit_rx 网络请求
