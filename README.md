@@ -8,7 +8,9 @@
 ## 简介
 
 项目 Android端，包名：xxx
+
 Google Play链接：[https://play.google.com/store/apps/details?id=com.toyscollect.prizeclaw.clawin](https://play.google.com/store/apps/details?id=com.toyscollect.prizeclaw.clawin)
+
 下载链接:
 
 ![](https://qr.api.cli.im/qr?data=https%253A%252F%252Fplay.google.com%252Fstore%252Fapps%252Fdetails%253Fid%253Dcom.toyscollect.prizeclaw.clawin&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=http%3A%2F%2Foss-cn-hangzhou.aliyuncs.com%2Fpublic-cli%2Ffree%2Ff6032e7629b603b19b2f97f5f1c58aaa1542252258.png&size=260&kid=cliim&key=b174f37d026e8e432dfdfde0cc07ad16)
