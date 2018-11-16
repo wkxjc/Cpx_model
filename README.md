@@ -69,17 +69,27 @@ Instagram主页：[https://www.instagram.com/clawin_carnival/](https://www.insta
 
 如果您有任何问题或反馈，请提交到[Github Issues](https://github.com/MobileCPX/Clawin/issues).
 
+## 联系作者
+
+姓名：xxx
+
+电话：xxx
+
+邮箱：xxx
+
+微信：xxx
+
 ## 联系我们
 
-公司名称：成都魔力百聚科技有限公司
+公司名称：xxx
 
-公司网站：[www.mobilecpx.com](www.mobilecpx.com)
+公司网站：xxx(带链接)
 
-Google邮箱：grabdolls@gmail.com
+Google邮箱：xxx
 
 ## LICENSE
 
-    Copyright (c) 2018-present, CPX Contributors.
+    Copyright (c) 2018-present, (Company name) Contributors.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
