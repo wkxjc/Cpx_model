@@ -1,7 +1,7 @@
 [![release](https://img.shields.io/badge/release-1.2.2-green.svg)](https://play.google.com/store/apps/details?id=com.toyscollect.prizeclaw.clawin)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
-# 项目名
+# 项目名(一级标题，下方放置项目Logo)
 
 [![](https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bb/a1/c8/bba1c89a-9572-ba8e-ab3d-7da8521d69c4/AppIcon-1x_U007emarketing-85-220-0-4.png/1200x630wa.png)](https://clawinapp.com/#apps)
 
@@ -23,7 +23,7 @@ Instagram主页：[https://www.instagram.com/clawin_carnival/](https://www.insta
 
 ![](https://qr.api.cli.im/qr?data=https%253A%252F%252Fplay.google.com%252Fstore%252Fapps%252Fdetails%253Fid%253Dcom.toyscollect.prizeclaw.clawin&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=http%3A%2F%2Foss-cn-hangzhou.aliyuncs.com%2Fpublic-cli%2Ffree%2Ff6032e7629b603b19b2f97f5f1c58aaa1542252258.png&size=260&kid=cliim&key=b174f37d026e8e432dfdfde0cc07ad16)
 
-## 模块分包说明（自顶向下介绍整体分包结构，介绍重要的功能分包细节）
+## 模块分包说明（自顶向下介绍整体分包结构，介绍重要的功能分包细节，带Github跳转链接）
 
 * [app](https://github.com/MobileCPX/Clawin/tree/master/app) 功能模块
   * [grabDolls](https://github.com/MobileCPX/Clawin/tree/master/app/src/main/java/com/toyscollect/prizeclaw/clawin/app/grabDolls) 首页Grab Dolls标签页
@@ -43,7 +43,7 @@ Instagram主页：[https://www.instagram.com/clawin_carnival/](https://www.insta
     * [retrofit_rx](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/library/retrofit_rx) 网络请求
     * [websocket](https://github.com/MobileCPX/Clawin/tree/master/base/src/main/java/com/base/library/websocket) WebSocket请求
 
-## 技术要点
+## 技术要点（带Github跳转链接）
 
 * [Kotlin](https://github.com/JetBrains/kotlin)
 * [Rxjava](https://github.com/ReactiveX/RxJava) & [RxAndroid](https://github.com/ReactiveX/RxAndroid)
